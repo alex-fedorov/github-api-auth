@@ -1,5 +1,7 @@
 # Github::Api::Auth
 
+[![github-api-auth API Documentation](https://www.omniref.com/ruby/gems/github-api-auth.png)](https://www.omniref.com/ruby/gems/github-api-auth)
+
 Usefull class to authenticate to github api just once and get authenticated Octokit::Client in return. OTP included.
 
 ## Installation
